@@ -1,0 +1,13 @@
+{
+    "project": "obfutool",
+    "credits": "zokow",
+    "support": "",
+    "github": "",
+    "controlFlowFlattening": true, 
+    "controlFlowFlatteningThreshold": 1, 
+    "numberToExpressions": true, 
+    "simplifier": true, 
+    "stringArrayShuffle": true, 
+    "splitStrings": true, 
+    "stringArrayThreshold": 1
+}
