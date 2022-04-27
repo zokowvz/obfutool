@@ -1,8 +1,8 @@
 {
     "project": "obfutool",
     "credits": "zokow",
-    "support": "",
-    "github": "",
+    "support": "soon",
+    "github": "https://github.com/zokowvz/obfutool",
     "controlFlowFlattening": true, 
     "controlFlowFlatteningThreshold": 1, 
     "numberToExpressions": true, 
