@@ -21,6 +21,8 @@
 #   
 
 ### 🧰 Support
-- Support #1: https://discord.gg/lightgen
+
+  <a href="https://discord.gg/lightgen">Support #1</a>
+
 
 ##  
