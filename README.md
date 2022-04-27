@@ -3,7 +3,7 @@
 
 ### 🛒 Usage  
 
-- ####  How to Run ?
+- #### >> How to Run ?
       1. - Configurez le fichier config.json à votre manière et selon vos besoins (laissez crédits etc svp).
       1 - Dans la console, faites npm install, qui vous permettra d'installer les modules nécessaire au lancement du tool.
       3 - Une fois que les modules sont installés, faites node index.js pour lancer le tool ou double-cliquez sur le fichier start.bat.
