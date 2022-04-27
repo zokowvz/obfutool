@@ -22,7 +22,7 @@
 
 ### 🧰 Support
 
-  <a href="https://discord.gg/lightgen">Support #1</a>
+  <a href="https://discord.gg/lightgen">  Support #1</a>
 
 
 ##  
