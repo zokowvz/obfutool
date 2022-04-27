@@ -1,0 +1,3 @@
+tu dois mettre ton fichier à obf dans /fichier/ le resultat apparaitra dans /fichier/result/result.js
+
+                                        v1.0 by zokow
